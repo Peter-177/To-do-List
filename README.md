@@ -43,7 +43,7 @@ public/
 vite.config.js
 index.html
 package.json
-
+```
 ---
 
 ## Author

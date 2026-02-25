@@ -44,9 +44,3 @@ vite.config.js
 index.html
 package.json
 ```
----
-
-## Author
-
-**Peter Boshra**  
-GitHub: https://github.com/Peter-177
